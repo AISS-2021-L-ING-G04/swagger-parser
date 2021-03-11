@@ -369,6 +369,7 @@
         <sonar.projectKey>AISS-2021-L-ING-G04_swagger-parser</sonar.projectKey>
         <sonar.organization>aiss-2021-l-ing-g04</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.moduleKey>${artifactId}</sonar.moduleKey>
         <swagger-parser-v2-version>1.0.55-SNAPSHOT</swagger-parser-v2-version>
         <commons-io-version>2.6</commons-io-version>
         <slf4j-version>1.7.30</slf4j-version>
